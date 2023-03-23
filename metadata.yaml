@@ -1,0 +1,35 @@
+_repo: Panouille_70327
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sandre, Thierry
+    aliases:
+    - Moulie, Charles
+    - Moulié, Charles
+    birthdate: 1890
+    deathdate: 1950
+    gutenberg_agent_id: '52873'
+    url: http://www.gutenberg.org/2009/agents/52873
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Thierry_Sandre
+    - https://fr.wikipedia.org/wiki/Thierry_Sandre
+description: ''
+gutenberg_issued: '2023-03-20'
+identifiers:
+  gutenberg: '70327'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k3375784w
+pgterms:marc905: 20220101030223sandre
+pgterms:marc906: '1926'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by the Bibliothèque
+  nationale de France (BnF/Gallica))
+publication_note: '  $aFrance :$bNouvelle revue française, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Panouille
+url: http://www.gutenberg.org/ebooks/70327
